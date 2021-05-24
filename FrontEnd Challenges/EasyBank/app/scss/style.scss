@@ -1,0 +1,11 @@
+@import "variables"; /*queremos que as _variables e _globals venham primeiro, plus
+queremos que sejam usados neste documento. Por esse mo0tivo as importamos*/
+@import "mixins";
+@import "animations";
+
+@import "globals";
+@import "header";
+@import "hero";
+@import "feature";
+@import "article";
+@import "footer";
